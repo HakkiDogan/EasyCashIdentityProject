@@ -1,0 +1,14 @@
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.deps.json
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.runtimeconfig.json
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.pdb
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.csproj.AssemblyReference.cache
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.AssemblyInfoInputs.cache
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.AssemblyInfo.cs
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.EntityLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.pdb
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.genruntimeconfig.cache
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.EntityLayer.dll

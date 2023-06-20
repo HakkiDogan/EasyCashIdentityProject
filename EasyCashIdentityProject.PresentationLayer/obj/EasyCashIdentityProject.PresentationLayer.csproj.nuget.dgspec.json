@@ -4,6 +4,264 @@
     "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\EasyCashIdentityProject.PresentationLayer.csproj": {}
   },
   "projects": {
+    "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.BusinessLayer\\EasyCashIdentityProject.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.BusinessLayer\\EasyCashIdentityProject.BusinessLayer.csproj",
+        "projectName": "EasyCashIdentityProject.BusinessLayer",
+        "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.BusinessLayer\\EasyCashIdentityProject.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\hakki.dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hakki.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj"
+              },
+              "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj": {
+                "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj",
+        "projectName": "EasyCashIdentityProject.DataAccessLayer",
+        "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\hakki.dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hakki.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj": {
+                "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.31, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj",
+        "projectName": "EasyCashIdentityProject.EntityLayer",
+        "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\hakki.dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hakki.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.31, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\EasyCashIdentityProject.PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +286,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.BusinessLayer\\EasyCashIdentityProject.BusinessLayer.csproj": {
+                "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.BusinessLayer\\EasyCashIdentityProject.BusinessLayer.csproj"
+              },
+              "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj"
+              },
+              "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj": {
+                "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
