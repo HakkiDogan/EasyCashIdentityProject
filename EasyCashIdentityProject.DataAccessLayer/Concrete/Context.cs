@@ -13,7 +13,7 @@ namespace EasyCashIdentityProject.DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=H-DOGAN\\SQLEXPRESS01; initial catalog=DBEasyCash;integrated Security= true");
+            optionsBuilder.UseSqlServer("server=(localdb)\\MSSQLLocalDB; initial catalog=DBEasyCash;integrated Security= true");
 
         }
 

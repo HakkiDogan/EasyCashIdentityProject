@@ -2932,19 +2932,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hakki.dogan\\.nuget\\packages\\": {}
+    "C:\\Users\\ibrah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj",
+      "projectUniqueName": "D:\\_Yazılım\\C#\\C# Projeler\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj",
       "projectName": "EasyCashIdentityProject.EntityLayer",
-      "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj",
-      "packagesPath": "C:\\Users\\hakki.dogan\\.nuget\\packages\\",
-      "outputPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\obj\\",
+      "projectPath": "D:\\_Yazılım\\C#\\C# Projeler\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj",
+      "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
+      "outputPath": "D:\\_Yazılım\\C#\\C# Projeler\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hakki.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3015,7 +3015,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
