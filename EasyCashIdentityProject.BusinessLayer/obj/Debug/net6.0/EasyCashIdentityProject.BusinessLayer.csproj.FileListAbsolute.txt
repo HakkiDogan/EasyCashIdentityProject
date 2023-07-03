@@ -36,3 +36,5 @@ D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.Bus
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.pdb
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.genruntimeconfig.cache
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.BusinessLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
