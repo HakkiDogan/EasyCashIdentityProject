@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_Yazılım\\C#\\C# Projeler\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj": {}
+    "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj": {}
   },
   "projects": {
-    "D:\\_Yazılım\\C#\\C# Projeler\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj": {
+    "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Yazılım\\C#\\C# Projeler\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj",
+        "projectUniqueName": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj",
         "projectName": "EasyCashIdentityProject.DtoLayer",
-        "projectPath": "D:\\_Yazılım\\C#\\C# Projeler\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj",
-        "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "D:\\_Yazılım\\C#\\C# Projeler\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\obj\\",
+        "projectPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj",
+        "packagesPath": "C:\\Users\\hakki.dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projelerim\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hakki.dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
