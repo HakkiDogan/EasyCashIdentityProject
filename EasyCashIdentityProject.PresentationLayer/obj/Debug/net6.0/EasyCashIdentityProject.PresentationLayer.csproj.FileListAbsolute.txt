@@ -343,3 +343,7 @@ D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\
 D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
 D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
 D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\obj\Debug\net6.0\EasyCashIdentityProject.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\MailKit.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\MimeKit.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
