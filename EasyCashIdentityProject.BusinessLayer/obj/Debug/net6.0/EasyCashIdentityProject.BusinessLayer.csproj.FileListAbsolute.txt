@@ -1,22 +1,3 @@
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.deps.json
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.runtimeconfig.json
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.dll
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.pdb
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.dll
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.dll
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.pdb
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.pdb
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.csproj.AssemblyReference.cache
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.AssemblyInfoInputs.cache
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.AssemblyInfo.cs
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.csproj.CoreCompileInputs.cache
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.csproj.CopyComplete
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.dll
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.BusinessLayer.dll
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.pdb
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.genruntimeconfig.cache
-D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.BusinessLayer.dll
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.deps.json
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.runtimeconfig.json
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.dll
@@ -36,5 +17,24 @@ D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.Bus
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.pdb
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.genruntimeconfig.cache
 D:\_Yazılım\C#\C# Projeler\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.BusinessLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.deps.json
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.runtimeconfig.json
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.pdb
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.dll
 D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.pdb
 D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.pdb
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.csproj.AssemblyReference.cache
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.AssemblyInfoInputs.cache
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.AssemblyInfo.cs
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.csproj.CopyComplete
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.BusinessLayer.dll
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.pdb
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.genruntimeconfig.cache
+D:\Projelerim\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.BusinessLayer.dll
