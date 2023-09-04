@@ -43,7 +43,7 @@
 						</ul>
 					</li>
 					<li>
-						<a><i class="fa fa-desktop"></i> Hesaplarım <span class="fa fa-chevron-down"></span></a>
+						<a><i class="fa fa-bank"></i> Hesaplarım <span class="fa fa-chevron-down"></span></a>
 						<ul class="nav child_menu">
 							<li><a href="general_elements.html">Tüm Hesaplarım</a></li>
 							<li><a href="media_gallery.html">Yeni Hesap Aç</a></li>
@@ -53,6 +53,15 @@
 							<li><a href="widgets.html">Kredi Hesaplarım</a></li>
 							<li><a href="invoice.html">Dolar Hesaplarım</a></li>
 							<li><a href="inbox.html">Euro Hesaplarım</a></li>
+						</ul>
+					</li>
+					<li>
+						<a><i class="fa fa-money"></i> Para Transferleri <span class="fa fa-chevron-down"></span></a>
+						<ul class="nav child_menu">
+							<li><a asp-controller="SendMoney" asp-action="Index" asp-route-mycurrency="TL">TL Transfer</a></li>
+							<li><a asp-controller="SendMoney" asp-action="Index" asp-route-mycurrency="USD">Dolar Transfer</a></li>
+							<li><a asp-controller="SendMoney" asp-action="Index" asp-route-mycurrency="EUR">Euro Transfer</a></li>
+							<li><a asp-controller="SendMoney" asp-action="Index" asp-route-mycurrency="Other">Diğer Transferler</a></li>
 						</ul>
 					</li>
 					<li>
